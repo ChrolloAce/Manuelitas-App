@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979102924833",
+    "project_id": "manuelitas-app",
+    "storage_bucket": "manuelitas-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979102924833:android:142a9c0740e0e3ebcbe360",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_DzUQTy-sqQjJFJcLzg0tBJYyRh7eYFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
